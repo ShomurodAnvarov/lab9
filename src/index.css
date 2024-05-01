@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+.MuiGrid-root {
+  background-color: #fff;
+}
+.gg {
+  background-color: #fff;
+  padding: 40px;
+}
+.MuiGrid-root.MuiGrid-container.MuiGrid-spacing-xs-2.MuiGrid-justify-content-xs-center{
+  background-color: blue;
+}
